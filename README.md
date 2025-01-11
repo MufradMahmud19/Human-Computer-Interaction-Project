@@ -1,5 +1,5 @@
 # **Wishly Online Shopping**  
-**A Human-Computer Interaction Project**  
+**Human-Computer Interaction Project**  
 
 ## **Description**  
 Wishly Online Shopping is a user-centered application prototype designed to enhance user engagement through features such as wishlist submission, upvoting, and categorized navigation. The project focuses on intuitive design, ease of use, and culturally relevant product recommendations, delivering a seamless and engaging shopping experience.  
