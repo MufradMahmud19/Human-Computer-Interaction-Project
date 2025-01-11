@@ -1,24 +1,54 @@
-# Human-Computer-Interaction-Project
+# **Wishly Online Shopping**  
+**A Human-Computer Interaction Project**  
 
-Description->
-This project focuses on building a prototype of a user-centered application designed to enhance user engagement through features like wishlist submission, upvoting, and categorized navigation. The project emphasizes intuitive design, ease of use, and culturally relevant product recommendations. I gave it a name, Wishly Online Shopping.
+## **Description**  
+Wishly Online Shopping is a user-centered application prototype designed to enhance user engagement through features such as wishlist submission, upvoting, and categorized navigation. The project focuses on intuitive design, ease of use, and culturally relevant product recommendations, delivering a seamless and engaging shopping experience.  
 
-Key Features->
-  Wishlist Functionality: Users can submit and upvote specific item demands.
-  Categorized Navigation: Structured product organization for better accessibility.
-  Admin Controls: User-friendly tools to filter and manage product visibility.
+---
 
-Paper Prototyping->
-  The project began with low-fidelity paper prototyping to establish the basic structure and functionality of the application. Paper prototyping allowed for quick ideation, testing, and iteration of core features before moving to digital design. This step provided valuable insights into user navigation flow and interface expectations, ensuring a smoother transition to the high-fidelity version.
+## **Key Features**  
+- **Wishlist Functionality**: Users can submit and upvote specific item demands, helping shape product offerings.  
+- **Categorized Navigation**: Structured product organization enhances accessibility and usability.  
+- **Admin Controls**: User-friendly tools allow administrators to filter and manage product visibility efficiently.  
 
-Challenges & Learnings->
-  The project highlighted areas for improvement, such as simplifying the signup process, enhancing sorting methods, and ensuring interface intuitiveness. It reinforced the importance of usability testing and iterative design to meet user expectations effectively.
+---
 
-Figma Prototyping->
-  The high-fidelity prototype was designed and refined using Figma, a powerful interface design tool. Figma enabled seamless collaboration, version control, and interactive prototyping. Key user flows, such as navigation between pages, wishlist interactions, and admin controls, were simulated to provide a near-realistic experience for usability testing. The tool's flexibility allowed for quick iterations based on user feedback, ensuring the final prototype met user expectations.
+## **Development Process**  
 
-Evaluation Methods->
-  Think-Aloud Sessions: Collected qualitative user feedback for design and functionality.
-  Co-operative Evaluation: Assessed visual appeal, interaction smoothness, and logical structure.
+### **1. Paper Prototyping**  
+The project began with low-fidelity paper prototyping to outline the application's core structure and functionality.  
+- Enabled rapid ideation, testing, and iteration of essential features.  
+- Provided valuable insights into user navigation flow and interface expectations.  
+- Ensured a smoother transition to high-fidelity designs by addressing key usability challenges early.  
 
-This project illustrates the potential of the application and lays the groundwork for further development to improve usability and user satisfaction.
+### **2. Figma Prototyping**  
+The high-fidelity prototype was created using Figma, focusing on design precision and usability.  
+- Interactive prototypes simulated key user flows, such as navigation, wishlist interactions, and admin controls.  
+- Enabled seamless collaboration, version control, and iterative design improvements.  
+- Integrated user feedback into successive iterations to refine the prototype and align it with user expectations.  
+
+---
+
+## **Challenges & Learnings**  
+- Simplifying the signup process to reduce barriers to entry.  
+- Enhancing sorting methods for better product organization and retrieval.  
+- Ensuring interface intuitiveness through iterative testing and user feedback.  
+
+This project underscored the critical importance of usability testing and iterative design in delivering a user-focused application.  
+
+---
+
+## **Evaluation Methods**  
+To ensure the application met user needs and expectations, the following methods were employed:  
+- **Think-Aloud Sessions**: Captured qualitative feedback on design and functionality during live user interactions.  
+- **Co-Operative Evaluation**: Assessed visual appeal, interaction smoothness, and logical structure through collaborative feedback sessions.  
+
+---
+
+## **Technology Used**  
+- **Tools**: Figma, Paper Prototyping.  
+- **Evaluation Methods**: Usability testing, Think-Aloud, Co-operative Evaluation.  
+
+---
+
+This project exemplifies the potential of combining user-centered design with iterative development. By prioritizing usability and engagement, **Wishly Online Shopping** serves as a foundation for future enhancements and development.  
